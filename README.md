@@ -32,6 +32,7 @@
 
 ### World
 - Dumb Enemies
+- Global Speed
 
 ### Visual
 - Peeking
