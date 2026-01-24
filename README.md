@@ -35,7 +35,7 @@
 ### World
 - Dumb Enemies
 - Global Speed
-- ~Skip Cutscene~
+- Skip Cutscene
 - Chest Teleport
 - Collection Coin Teleport
 - Kill Aura
