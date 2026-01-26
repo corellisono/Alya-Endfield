@@ -31,6 +31,7 @@
 - No Skill CD
 - Movement Speed
 - Noclip
+- Max Potential
 
 ### World
 - Dumb Enemies
@@ -40,6 +41,7 @@
 - Collection Coin Teleport
 - Kill Aura
 - Auto Break Ore
+- Auto Skip Dialogue
 
 ### Auto Loot
 - **Enable** 
