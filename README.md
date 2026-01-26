@@ -34,6 +34,7 @@
 - Max Potential
 
 ### World
+-Infinite Transmission Length
 - Auto Puzzle
 - Dumb Enemies
 - Global Speed
