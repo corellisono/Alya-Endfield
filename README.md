@@ -35,7 +35,7 @@
 - Custom Stats
 
 ### World
--Infinite Transmission Length
+- Infinite Transmission Length
 - Auto Puzzle
 - Dumb Enemies
 - Global Speed
