@@ -85,6 +85,7 @@
 ### Visual
 - Peeking
 - Camera FOV
+- Body Parts Resizer
 
 ## Still WIP
 ---
