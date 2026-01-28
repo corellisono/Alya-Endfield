@@ -30,6 +30,7 @@
 - Infinite Ultimate Energy
 - No Skill CD
 - Movement Speed
+- Jump Height
 - Noclip
 - Max Potential
 - Custom Stats
