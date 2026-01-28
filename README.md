@@ -57,6 +57,8 @@
   - Coins
   - Collections
   - Doodads
+  - Blackbox
+  - Campfire
   - **All**
 
 ### ESP
@@ -71,6 +73,8 @@
   - Drops
   - Flowers
   - Doodads
+  - Challenge
+  - Audio Tape
   - **All**
 - **Customization**:
   - Distance
