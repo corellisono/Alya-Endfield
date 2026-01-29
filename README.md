@@ -45,6 +45,7 @@
 - Collection Coin Teleport
 - Kill Aura
 - Auto Break Ore
+- Auto Break Box
 - Auto Skip Dialogue
 - Quest Teleport
 
