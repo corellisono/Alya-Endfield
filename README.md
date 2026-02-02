@@ -44,15 +44,19 @@
 - Chest Teleport
 - Collection Coin Teleport
 - Kill Aura
-- Auto Break Ore
-- Auto Break Box
 - Auto Skip Dialogue
 - No Talk Delay
 - Auto Dialogue
 - Quest Teleport
 
+### Auto Break
+- **Targets**
+- Ores
+- Box
+- Specstone
+
+
 ### Auto Loot
-- **Enable** 
 - **Targets**:
   - Chests
   - Drops
@@ -78,7 +82,7 @@
   - Flowers
   - Doodads
   - Challenge
-  - Audio Tape
+  - Narrative
   - **All**
 - **Customization**:
   - Distance
